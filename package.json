@@ -1,0 +1,17 @@
+{
+  "name": "as1988-cli-number-guessing",
+  "version": "1.0.0",
+  "description": "This is cli based number guessing game.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
